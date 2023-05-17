@@ -1,0 +1,28 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofekdeitch/time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/deep-equal": "^1.0.1",
+    "@types/object-hash": "^3.0.2",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "deep-equal": "^2.2.1",
+    "object-hash": "^3.0.0"
+  }
+}
